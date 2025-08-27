@@ -13,7 +13,8 @@ export default function Index() {
     { title: "Button", path:"/button" },
     { title: "AsyncStorage", path:"/asyncStorage" },
     { title: "FlatList", path:"/flatList" },
-    { title: "TouchableHighlight", path: "/touchableHighlight" },  
+    { title: "TouchableHighlight", path: "/touchableHighlight" },
+    { title: "Dumb Components", path: "/dumbComponent" },  
 
 
   ];

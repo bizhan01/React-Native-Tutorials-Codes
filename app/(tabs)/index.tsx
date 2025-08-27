@@ -8,6 +8,8 @@ export default function Index() {
     { title: "Hello World", path: "/helloWorld" },
     { title: "ActivityIndicator Component", path: "/activityIndicator" },
     { title: "Go to List View", path: "/listView" },
+    { title: "Pressable Component", path:"/pressable" },    
+
 
 
   ];

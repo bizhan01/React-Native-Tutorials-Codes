@@ -23,6 +23,7 @@ export default function Index() {
     { title: "Blog App", path: "/blog" },
     { title: "Calculator App", path: "/calculator" },
     { title: "EmojiPicker App", path: "/emojiPicker" },
+    { title: "Password Manager App", path: "/passwordManager" },
   ];
 
   return (

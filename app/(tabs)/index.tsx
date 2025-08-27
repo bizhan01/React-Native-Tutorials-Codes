@@ -5,7 +5,7 @@ export default function Index() {
   const router = useRouter();
 
   const screens = [
-    { title: "Hello World", path: "/HelloWorld" },
+    { title: "Hello World", path: "/helloWorld" },
 
   ];
 

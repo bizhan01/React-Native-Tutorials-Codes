@@ -22,6 +22,7 @@ export default function Index() {
     { title: "BMI Calculator", path: "/BMI-Calculator" },
     { title: "Blog App", path: "/blog" },
     { title: "Calculator App", path: "/calculator" },
+    { title: "EmojiPicker App", path: "/emojiPicker" },
   ];
 
   return (

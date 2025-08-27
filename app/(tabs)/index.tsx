@@ -11,7 +11,8 @@ export default function Index() {
     { title: "Pressable Component", path:"/pressable" },    
     { title: "TextInput Component", path:"/textInput" },
     { title: "Button", path:"/button" },
-    { title: "AsyncStorage", path:"/asyncStorage" },  
+    { title: "AsyncStorage", path:"/asyncStorage" },
+    { title: "FlatList", path:"/flatList" },  
 
 
   ];

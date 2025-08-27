@@ -17,7 +17,8 @@ export default function Index() {
     { title: "Dumb Components", path: "/dumbComponent" },
     { title: "Tab Navigation", path: "/tabNavigation" },
     { title: "Go to Scroll View", path: "/scrollView" },
-    { title: "Go to Register", path: "/screens/register" },  
+    { title: "Go to Register", path: "/screens/register" }, 
+    { title: "Go to Login", path: "/screens/login" }, 
 
 
   ];

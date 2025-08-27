@@ -12,7 +12,8 @@ export default function Index() {
     { title: "TextInput Component", path:"/textInput" },
     { title: "Button", path:"/button" },
     { title: "AsyncStorage", path:"/asyncStorage" },
-    { title: "FlatList", path:"/flatList" },  
+    { title: "FlatList", path:"/flatList" },
+    { title: "TouchableHighlight", path: "/touchableHighlight" },  
 
 
   ];

@@ -15,7 +15,8 @@ export default function Index() {
     { title: "FlatList", path:"/flatList" },
     { title: "TouchableHighlight", path: "/touchableHighlight" },
     { title: "Dumb Components", path: "/dumbComponent" },
-    { title: "Tab Navigation", path: "/tabNavigation" },  
+    { title: "Tab Navigation", path: "/tabNavigation" },
+    { title: "Go to Scroll View", path: "/scrollView" },  
 
 
   ];

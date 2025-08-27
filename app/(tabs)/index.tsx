@@ -19,6 +19,7 @@ export default function Index() {
     { title: "Go to Scroll View", path: "/scrollView" },
     { title: "Go to Register", path: "/screens/register" }, 
     { title: "Go to Login", path: "/screens/login" }, 
+    { title: "BMI Calculator", path: "/BMI-Calculator" },
   ];
 
   return (

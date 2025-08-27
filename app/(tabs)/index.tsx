@@ -10,7 +10,8 @@ export default function Index() {
     { title: "Go to List View", path: "/listView" },
     { title: "Pressable Component", path:"/pressable" },    
     { title: "TextInput Component", path:"/textInput" },
-    { title: "Button", path:"/button" },  
+    { title: "Button", path:"/button" },
+    { title: "AsyncStorage", path:"/asyncStorage" },  
 
 
   ];

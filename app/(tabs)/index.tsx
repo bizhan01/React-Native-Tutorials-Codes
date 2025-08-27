@@ -9,7 +9,7 @@ export default function Index() {
     { title: "ActivityIndicator Component", path: "/activityIndicator" },
     { title: "Go to List View", path: "/listView" },
     { title: "Pressable Component", path:"/pressable" },    
-
+    { title: "TextInput Component", path:"/textInput" },  
 
 
   ];

@@ -35,7 +35,7 @@ const PressableExample = () => {
       >
         <Image
           source={{
-            uri: 'https://media.geeksforgeeks.org/wp-content/uploads/20220217151648/download3.png',
+            uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ftsMEgTdOMcJovevfh-rz2MCcTbTrGpB9A&s',
           }}
           style={styles.image}
         />

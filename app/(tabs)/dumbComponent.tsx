@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from "react-native";
 const GFG = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Geeksforgeeks</Text>
+      <Text style={styles.text}>GlideSoft</Text>
     </View>
   );
 };

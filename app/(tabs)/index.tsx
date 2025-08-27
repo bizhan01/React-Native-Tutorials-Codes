@@ -6,6 +6,8 @@ export default function Index() {
 
   const screens = [
     { title: "Hello World", path: "/helloWorld" },
+    { title: "ActivityIndicator Component", path: "/activityIndicator" },
+
 
   ];
 

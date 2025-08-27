@@ -14,7 +14,8 @@ export default function Index() {
     { title: "AsyncStorage", path:"/asyncStorage" },
     { title: "FlatList", path:"/flatList" },
     { title: "TouchableHighlight", path: "/touchableHighlight" },
-    { title: "Dumb Components", path: "/dumbComponent" },  
+    { title: "Dumb Components", path: "/dumbComponent" },
+    { title: "Tab Navigation", path: "/tabNavigation" },  
 
 
   ];

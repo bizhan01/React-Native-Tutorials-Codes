@@ -25,6 +25,7 @@ export default function Index() {
     { title: "EmojiPicker App", path: "/emojiPicker" },
     { title: "Password Manager App", path: "/passwordManager" },
     { title: "To Do App", path: "/to-do-app" },
+    { title: "Stop Watch", path: "/stopWatch" },
   ];
 
   return (

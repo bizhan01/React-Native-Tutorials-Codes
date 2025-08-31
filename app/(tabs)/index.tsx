@@ -26,6 +26,7 @@ export default function Index() {
     { title: "Password Manager App", path: "/passwordManager" },
     { title: "To Do App", path: "/to-do-app" },
     { title: "Stop Watch", path: "/stopWatch" },
+    { title: "Calendar App", path: "/calendar" },
   ];
 
   return (
